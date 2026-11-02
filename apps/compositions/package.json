@@ -67,7 +67,7 @@
     "shiki": "3.23.0",
     "use-mask-input": "3.10.1",
     "use-stick-to-bottom": "1.1.6",
-    "zod": "4.4.3"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@types/react": "19.2.17",
